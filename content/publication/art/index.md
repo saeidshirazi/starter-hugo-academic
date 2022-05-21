@@ -25,8 +25,8 @@ publishDate: '2020-07-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Biocatalysis and Agricultural Biotechnology*
-publication_short: In *ISBAB*
+publication: In *Medical Hypotheses*
+publication_short: In *Medical Hypotheses*
 
 abstract: The development of drug resistance is one of the most significant challenges of the current century in the pharmaceutical industry. Superinfections, cancer chemoresistance, and resistance observed in many non-infectious diseases are nullifying the efforts and monetary supplies, put in the advent of new drug molecules. Millions of people die because of this drug resistance developed gradually through extensive use of the drugs. Inherently, some drugs are less prone to become ineffective by drug resistance than others. Covalent inhibitors bind to their targets via a biologically permanent bound with their cognate receptor and therefore display more potent inhibiting characteristics. Suicide inhibitors or mechanism-based inhibitors are one of the covalent inhibitors, which require a pre-activation step by their targeting enzyme. This step accrues their selectivity and specificity with respect to other covalent inhibitors …
 
