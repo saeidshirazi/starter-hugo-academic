@@ -57,6 +57,9 @@ social:
 - icon: ieee
   icon_pack: ai
   link: https://ieeexplore.ieee.org/author/37088859201
+- icon: cv
+  icon_pack: ai
+  link: uploads/cv.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -72,8 +75,7 @@ email: "saeidghshirazi@gmail.com"
 highlight_name: true
 ---
 
-I’m e-Commerce master’s student at Iran University of Science and Technology, advised by M Fathian. My research focuses on Smart Contract Security, mainly focused on symbolic execution, fuzzing , and machine learning.
+I’m e-Commerce master’s student at Iran University of Science and Technology, advised by M Fathian.  I’m broadly interested in Information security and Artificial intelligence. Currently, My research focuses on Smart Contract Security and IoT security, mainly focused on symbolic execution, fuzzing , and machine learning.
 
-Also, I'm an InfoSec Enthusiast, Pentester, Bug Hunter and Developer, experienced in ?.
+Also, I'm an InfoSec Enthusiast, Pentester, Bug Hunter and Developer, With experience in teaching Cybersecurity and Penetration Testing, focusing on Android Security
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
