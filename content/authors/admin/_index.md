@@ -77,5 +77,5 @@ highlight_name: true
 
 I’m e-Commerce master’s student at Iran University of Science and Technology, advised by M Fathian.  I’m broadly interested in Information security and Artificial intelligence. Currently, My research focuses on Smart Contract Security and IoT security, mainly focused on symbolic execution, fuzzing , and machine learning.
 
-Also, I'm an InfoSec Enthusiast, Pentester, Bug Hunter and Developer, With experience in teaching Cybersecurity and Penetration Testing, focusing on Android Security
+Also, I'm an InfoSec Enthusiast, Pentester, Bug Hunter and Developer, With experience in teaching Cybersecurity and Penetration Testing, focusing on Android Security.
 
