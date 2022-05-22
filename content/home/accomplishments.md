@@ -136,7 +136,7 @@ item:
   organization_url: https://www.coursera.org
   title: Machine Learning
   url: "https://www.coursera.org/learn/machine-learning"
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/AGA4MD8X7JSE
   date_end: ""
   date_start: "2019-01-25"
   description: ""
@@ -152,7 +152,7 @@ item:
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Enterprise System Management and Security 
-  url: "https://www.coursera.org/learn/enterprise-system-management-security"
+  url: "https://www.coursera.org/learn/detecting-cyber-attacks"
 
 - certificate_url: https://drive.google.com/file/d/1j1USQxfYfY03ZZJJnJaltaqZroftK9Ex/view?usp=sharinghttps://drive.google.com/file/d/1j1USQxfYfY03ZZJJnJaltaqZroftK9Ex/view?usp=sharing
   date_end: ""
