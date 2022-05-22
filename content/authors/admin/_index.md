@@ -20,6 +20,7 @@ bio: My research interests include Smart Contract Security, Information security
 # Interests to show in About widget
 interests:
 - Cyber Security
+- Intrusion Detection
 - Artificial Intelligence
 - Blockchain
 
@@ -50,6 +51,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/saeidghsh/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Saeid-Ghasemshirazi
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
