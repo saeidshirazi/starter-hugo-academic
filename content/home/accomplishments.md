@@ -119,7 +119,7 @@ item:
   organization_url: https://www.coursera.org
   title: Security in Google Cloud Platform Specialization
   url: "https://www.coursera.org/specializations/security-google-cloud-platform"
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/N9V5ZYG2J4M3
   date_end: ""
   date_start: "2019-09-25"
   description: ""
