@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: "mailto:saeidghshirazi@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=G-XUqsUAAAAJ&hl=en
@@ -54,6 +54,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Saeid-Ghasemshirazi
+- icon: ieee
+  icon_pack: ai
+  link: https://ieeexplore.ieee.org/author/37088859201
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
