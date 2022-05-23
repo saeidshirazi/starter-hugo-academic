@@ -7,7 +7,7 @@
   title = "Twitter"
   icon_pack = "fab"
   icon = "twitter"
-  enable = true
+  enable = false
 
 
 
@@ -17,7 +17,7 @@
   title = "Email"
   icon_pack = "fas"
   icon = "envelope"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "linkedin"
@@ -25,7 +25,7 @@
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "whatsapp"
@@ -33,7 +33,7 @@
   title = "WhatsApp"
   icon_pack = "fab"
   icon = "whatsapp"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "weibo"
@@ -41,7 +41,7 @@
   title = "Weibo"
   icon_pack = "fab"
   icon = "weibo"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "reddit"
