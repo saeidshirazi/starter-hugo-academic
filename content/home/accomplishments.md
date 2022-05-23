@@ -87,14 +87,6 @@ item:
   organization_url: https://itmasters.edu.au/
   title: Phishing Countermeasures
   url: ""
-- certificate_url: https://drive.google.com/open?id=1ZIKJRV4Qlt1ir01deCev08AS9E97rc4X
-  date_end: ""
-  date_start: "2020-05-25"
-  description: ""
-  organization: Master of Project Academy
-  organization_url: https://masterofproject.com/
-  title: Professional Scrum Master (PSM )
-  url: ""
 - certificate_url: https://drive.google.com/open?id=1geScUXmCB8DXsY-nijncwBOohsWAfzt4
   date_end: ""
   date_start: "2020-01-25"
