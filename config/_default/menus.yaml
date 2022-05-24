@@ -10,9 +10,7 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Accomplishments
-    url: '#accomplishments'
-    weight: 30
+
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
@@ -21,6 +19,10 @@ main:
   #   weight: 40
   - name: Publications
     url: '#publications'
+    weight: 30
+
+  - name: Accomplishments
+    url: '#accomplishments'
     weight: 40
   # - name: Contact
   #   url: '#contact'
