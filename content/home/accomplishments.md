@@ -35,7 +35,7 @@ item:
   title: Python for Cybersecurity Specialization
   url: "https://www.coursera.org/specializations/pythonforcybersecurity"
 
-- certificate_url: https://www.icsi.co.uk/certificates/n8rvak7a9k
+- certificate_url: https://ondemand.icsiglobal.com/certificates/n8rvak7a9k
   date_end: ""
   date_start: "2020-08-25"
   description: ""
