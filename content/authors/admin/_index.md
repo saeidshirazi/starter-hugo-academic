@@ -75,7 +75,7 @@ email: "saeidghshirazi@gmail.com"
 highlight_name: true
 ---
 
-I am an e-Commerce master’s student at [Iran University of Science and Technology](http://www.iust.ac.ir/en), advised by [M Fathian](https://www.researchgate.net/profile/Mohammad-Fathian).  I’m broadly interested in Information security and Artificial intelligence. Currently, my research focuses on Smart Contract Security and IoT security, especially focused on symbolic execution, fuzzing , and machine learning.
+I am an e-Commerce master’s student at [Iran University of Science and Technology](http://www.iust.ac.ir/en), advised by [M Fathian](https://www.researchgate.net/profile/Mohammad-Fathian).  I’m broadly interested in Information Security and Artificial Intelligence. Currently, my research focuses on Smart Contract Security and IoT security, especially focused on symbolic execution, fuzzing, and machine learning.
 
-In addition, I am an InfoSec Enthusiast, Pentester, Bug Hunter and Developer, With experience in teaching Cybersecurity and Penetration Testing, focused on Android Security, as well as a content creator of information security-related videos on [YouTube](https://www.youtube.com/c/InfoSecTube/).
+In addition, I am an InfoSec Enthusiast, Pentester, Bug Hunter and Developer, with experience in teaching Cybersecurity and Penetration Testing, focused on Android Security, as well as a content creator of information security-related videos on [YouTube](https://www.youtube.com/c/InfoSecTube/).
 
