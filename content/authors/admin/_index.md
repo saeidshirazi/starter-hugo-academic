@@ -21,8 +21,9 @@ bio: My research interests include Smart Contract Security, Information security
 interests:
 - Cyber Security
 - Intrusion Detection
-- Artificial Intelligence
-- Blockchain
+- Adversarial attacks
+- Smart Contract Security
+- IoT & IIoT Security
 
 # Education to show in About widget
 education:
